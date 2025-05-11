@@ -172,4 +172,4 @@ Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
 
-Best Regards. wabot-aq
+Best Regards. wabot-aqjava/console/.gitattributesdef fibonacci(n) 2 // A long comment demonstrating the effects of the line wrapping option. 3 return n if (0..1).include? n 4 (fibonacci(n-1) + fibonacci(n-2)) 5 end
